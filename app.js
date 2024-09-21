@@ -37,7 +37,7 @@ Complete Exercise 3 in the space below:
 */
 
 
-foods.push('taco');
+foods.splice(0, 0, 'taco');
 
 console.log('Exercise 3 result:', foods);
 
