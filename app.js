@@ -53,7 +53,7 @@ Complete Exercise 4 in the space below:
 */
 
 
-const favFood = foods[0];
+const favFood = foods[1];
 
 console.log('Exercise 4 result:', favFood);
 
